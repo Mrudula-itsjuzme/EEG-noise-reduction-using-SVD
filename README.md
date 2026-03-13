@@ -54,7 +54,3 @@ During the implementation, we encountered and solved the following technical hur
 - Hardware: cpu
 - Time taken: 273 s
 - Environment: Matlab
-
-
-## Migration Notes
-This repository was migrated and renamed for personal workspace standardization.
